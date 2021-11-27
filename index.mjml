@@ -36,10 +36,10 @@
         <mj-section mj-class="pink-bg">
             <mj-column>
                 <mj-navbar hamburger="hamburger">
-                    <mj-navbar-link font-family="Roboto, Sans-serif" color="#1d1e1c" font-size="20px">
+                    <mj-navbar-link href="https://futurenoodles.com/products/future-noodles" font-family="Roboto, Sans-serif" color="#1d1e1c" font-size="20px">
                         SHOP NOW
                     </mj-navbar-link>
-                    <mj-navbar-link font-family="Roboto, Sans-serif" color="#1d1e1c" font-size="20px">
+                    <mj-navbar-link href="https://futurenoodles.com/blogs/recipes" font-family="Roboto, Sans-serif" color="#1d1e1c" font-size="20px">
                         CHEF RECIPES
                     </mj-navbar-link>
                 </mj-navbar>
@@ -92,7 +92,7 @@
         </mj-section>
         <mj-section mj-class="pink-bg">
             <mj-column>
-                <mj-button border-radius="25px" text-transform="uppercase" background-color="#f5b7b0" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px" align="left">
+                <mj-button href="https://futurenoodles.com/products/future-noodles" border-radius="25px" text-transform="uppercase" background-color="#f5b7b0" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px" align="left">
                     shop noodz
                 </mj-button>
             </mj-column>
@@ -113,7 +113,7 @@
                 <mj-text align="center" font-family="Roboto, sans-serif" font-size="30px" font-weight="400">
                     FAUX PHO WITH SMOKY MUSHROOM
                 </mj-text>
-                <mj-button border-radius="25px" text-transform="uppercase" background-color="white" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                <mj-button href="https://futurenoodles.com/blogs/recipes/faux-pho" border-radius="25px" text-transform="uppercase" background-color="white" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
                     view recipe
                 </mj-button>
             </mj-column>
@@ -125,7 +125,7 @@
                 <mj-text align="center" font-family="Roboto, sans-serif" font-size="30px" font-weight="400">
                     BACON NOODZ WITH NAPA CABBAGE
                 </mj-text>
-                <mj-button border-radius="25px" text-transform="uppercase" background-color="white" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                <mj-button href="https://futurenoodles.com/blogs/recipes/smoked-tofu-supper" border-radius="25px" text-transform="uppercase" background-color="white" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
                     view recipe
                 </mj-button>
             </mj-column>
@@ -141,25 +141,25 @@
                 <mj-text mj-class="h-1" align="center" font-size="38px">
                     YELLOW CURRY
                 </mj-text>
-                <mj-button border-radius="25px" text-transform="uppercase" background-color="#fee394" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                <mj-button href="https://futurenoodles.com/products/future-noodles" border-radius="25px" text-transform="uppercase" background-color="#fee394" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
                     shop now
                 </mj-button>
             </mj-column>
         </mj-section>
         <mj-section mj-class="green-bg">
             <mj-column>
+                <mj-text mj-class="h-1" align="center" font-size="38px">
+                    Smokey mushroom<br/>& miso
+                </mj-text>
+                <mj-button href="https://futurenoodles.com/products/future-noodles" border-radius="25px" text-transform="uppercase" background-color="#bddabd" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                    shop now
+                </mj-button>
+            </mj-column>
+            <mj-column>
                 <mj-image
                      src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/mushroom-miso.png"
                      alt=""
                      />
-            </mj-column>
-            <mj-column>
-                <mj-text mj-class="h-1" align="center" font-size="38px">
-                    Smokey mushroom<br/>& miso
-                </mj-text>
-                <mj-button border-radius="25px" text-transform="uppercase" background-color="#bddabd" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
-                    shop now
-                </mj-button>
             </mj-column>
         </mj-section>
         <mj-section mj-class="pink-bg">
@@ -173,7 +173,7 @@
                 <mj-text mj-class="h-1" align="center" font-size="38px">
                     Spicy Kimchi
                 </mj-text>
-                <mj-button border-radius="25px" text-transform="uppercase" background-color="#f5b7b0" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                <mj-button href="https://futurenoodles.com/products/future-noodles" border-radius="25px" text-transform="uppercase" background-color="#f5b7b0" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
                     shop now
                 </mj-button>
             </mj-column>
@@ -192,12 +192,12 @@
             <mj-column>
                 <mj-text
                 font-family="Roboto, sans-serif" font-size="14px" font-weight="400" color="white" align="center">
-                    INSTAGRAM
+                    <a href="https://www.instagram.com/thefuturenoodles/" style="text-decoration: none; color: white;">INSTAGRAM</a>
                 </mj-text>
             </mj-column>
             <mj-column>
                 <mj-text font-family="Roboto, sans-serif" font-size="14px" font-weight="400" color="white" align="center">
-                    TWITTER
+                    <a href="https://twitter.com/future_noodles" style="text-decoration:none;color:white;">TWITTER</a>
                 </mj-text>
             </mj-column>
         </mj-section>
