@@ -28,7 +28,7 @@
             <mj-section mj-class="pink-bg">
                 <mj-column>
                     <mj-image width="200px"
-                         src="img/logo.png"
+                         src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/logo.png"
                          alt=""
                          width="" />
                 </mj-column>
@@ -55,7 +55,7 @@
     <!--HERO-->
         <mj-section mj-class="pink-bg">
             <mj-column>
-                <mj-image src="img/hero.png" alt="Future Noodles hero image" border-radius="20px"/>
+                <mj-image src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/hero.png" alt="Future Noodles hero image" border-radius="20px"/>
             </mj-column>
         </mj-section>
         <mj-section mj-class="pink-bg">
@@ -106,7 +106,7 @@
         </mj-section>
         <mj-section background-color="white">
             <mj-column>
-                <mj-image src="img/mushroom-pho.jpeg" alt="Mushroom Pho" align="center" />
+                <mj-image src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/mushroom-pho.jpeg" alt="Mushroom Pho" align="center" />
                 <mj-text align="center" font-family="Roboto, sans-serif" font-weight="400" font-size="18px">
                     GOOD MORNING VIETNAM
                 </mj-text>
@@ -118,7 +118,7 @@
                 </mj-button>
             </mj-column>
             <mj-column>
-                <mj-image src="img/bacon.noodz.jpeg" alt="Mushroom Pho" align="center"/>
+                <mj-image src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/bacon.noodz.jpeg" alt="Mushroom Pho" align="center"/>
                 <mj-text align="center" font-family="Roboto, sans-serif" font-size="18px" font-weight="400">
                     FUNKY KIMCHI BOWL
                 </mj-text>
@@ -133,7 +133,7 @@
         <mj-section mj-class="yellow-bg">
             <mj-column>
                 <mj-image
-                     src="img/yellow-curry.png"
+                     src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/yellow-curry.png"
                      alt=""
                      />
             </mj-column>
@@ -149,7 +149,7 @@
         <mj-section mj-class="green-bg">
             <mj-column>
                 <mj-image
-                     src="img/mushroom-miso.png"
+                     src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/mushroom-miso.png"
                      alt=""
                      />
             </mj-column>
@@ -165,7 +165,7 @@
         <mj-section mj-class="pink-bg">
             <mj-column>
                 <mj-image
-                     src="img/spicy-kimchi.png"
+                     src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/spicy-kimchi.png"
                      alt=""
                      />
             </mj-column>
@@ -180,12 +180,12 @@
         </mj-section>
         <mj-section mj-class="green-bg">
             <mj-column>
-                <mj-image src="img/infinite.noodz.jpeg" alt="Infinite Love, Infinite Noodles design" />
+                <mj-image src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/infinite.noodz.jpeg" alt="Infinite Love, Infinite Noodles design" />
             </mj-column>
         </mj-section>
         <mj-section mj-class="dark-bg">
             <mj-column>
-                <mj-image width="280px" src="img/footer.logo.png" alt="Footer Logo" />
+                <mj-image width="280px" src="https://raw.githubusercontent.com/lee-android/future-noodles-newsletter/master/img/footer.logo.png" alt="Footer Logo" />
             </mj-column>
         </mj-section>
         <mj-section mj-class="dark-bg">
