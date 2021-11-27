@@ -1,0 +1,217 @@
+<mjml>
+    <mj-head>
+        <mj-title>Welcome to Future Noodles</mj-title>
+        <mj-attributes>
+            <!--background colors-->
+            <mj-class name="pink-bg" background-color="#f5b7b0" />   
+            <mj-class name="yellow-bg" background-color="#fee394" />   
+            <mj-class name="green-bg" background-color="#bddabd" />   
+            <mj-class name="dark-bg" background-color="#1d1e1c" />   
+            <!--end of colors-->
+
+            <!--font styles-->
+            <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"/>
+            <mj-class name="h-1" text-transform="uppercase" font-family="Roboto, sans-serif" font-size="50px" color="#1d1e1c" line-height="1" letter-spacing="0.1em" font-weight="700">
+            <mj-class name="h-2" text-transform="uppercase" font-family="Roboto, sans-serif" font-size="40px" font-weight="400">
+            <mj-class name="h-3" font-family="Roboto, sans-serif" font-size="14px" font-weight="400" />
+            <!--end of font styles-->
+            <mj-class name="p-1" font-family="Roboto, sans-serif" font-size="40px" font-weight="400" font-size="18px" letter-spacing="0.2em">
+            <mj-text font-family="roboto, sans-serif" color="#1d1e1c">
+            <mj-image padding="0"/>
+            <mj-column width="600px" padding="0"/>
+            <mj-section padding="0">
+            <mj-button >
+        </mj-attributes>
+    </mj-head>
+
+    <mj-body background-color="#cccccc">
+            <mj-section mj-class="pink-bg">
+                <mj-column>
+                    <mj-image width="200px"
+                         src="img/logo.png"
+                         alt=""
+                         width="" />
+                </mj-column>
+            </mj-section>
+        <mj-section mj-class="pink-bg">
+            <mj-column>
+                <mj-navbar hamburger="hamburger">
+                    <mj-navbar-link font-family="Roboto, Sans-serif" color="#1d1e1c" font-size="20px">
+                        SHOP NOW
+                    </mj-navbar-link>
+                    <mj-navbar-link font-family="Roboto, Sans-serif" color="#1d1e1c" font-size="20px">
+                        CHEF RECIPES
+                    </mj-navbar-link>
+                </mj-navbar>
+        </mj-section>
+        </mj-column>
+
+        <mj-section mj-class="pink-bg">
+            <mj-column>
+                <mj-divider border-width="1.5px"/>
+            </mj-column>
+        </mj-section>
+
+    <!--HERO-->
+        <mj-section mj-class="pink-bg">
+            <mj-column>
+                <mj-image src="img/hero.png" alt="Future Noodles hero image" border-radius="20px"/>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="pink-bg">
+            <mj-column>
+                <mj-text mj-class="h-1" font-family="Roboto" font-weight="600" line-height="1">
+                    MAKING OUR PLANET HEALTHIER ONE NOODLE AT A TIME.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="pink-bg">
+            <mj-column>
+                <mj-text font-family="Roboto, sans-serif" font-weight="400" font-size="18px" line-height="1">
+                    Thanks for joining our noodle club.
+                    <br/>
+                    <br/>
+                    We're on a mission to make nutritionally complete food that not only taste great but is good for you and our planet.
+                    <br/>
+                    <br/>
+                    It's been an incredible journey so far and we are extremely grateful to everyone for supporting us in these early days.
+                    <br/>
+                    <br/>
+                    So thank you for believing in our dream to make super healthy, plant based and planet friendly instant noodles like never before.
+                    <br/>
+                    <br/>
+                    Welcome abroad and enjoy the ride.
+                    <br/>
+                    <br/>
+                    Peace, Love & Noodles,
+                    <br/>
+                    <br/>
+                    Carl X
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="pink-bg">
+            <mj-column>
+                <mj-button border-radius="25px" text-transform="uppercase" background-color="#f5b7b0" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px" align="left">
+                    shop noodz
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="dark-bg">
+            <mj-column>
+                <mj-text text-transform="uppercase" font-family="Roboto, sans-serif" font-size="40px" font-weight="400" color="white" align="center">
+                    ~ #PIMPMYNOODZ ~
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="white">
+            <mj-column>
+                <mj-image src="img/mushroom-pho.jpeg" alt="Mushroom Pho" align="center" />
+                <mj-text align="center" font-family="Roboto, sans-serif" font-weight="400" font-size="18px">
+                    GOOD MORNING VIETNAM
+                </mj-text>
+                <mj-text align="center" font-family="Roboto, sans-serif" font-size="30px" font-weight="400">
+                    FAUX PHO WITH SMOKY MUSHROOM
+                </mj-text>
+                <mj-button border-radius="25px" text-transform="uppercase" background-color="white" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                    view recipe
+                </mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-image src="img/bacon.noodz.jpeg" alt="Mushroom Pho" align="center"/>
+                <mj-text align="center" font-family="Roboto, sans-serif" font-size="18px" font-weight="400">
+                    FUNKY KIMCHI BOWL
+                </mj-text>
+                <mj-text align="center" font-family="Roboto, sans-serif" font-size="30px" font-weight="400">
+                    BACON NOODZ WITH NAPA CABBAGE
+                </mj-text>
+                <mj-button border-radius="25px" text-transform="uppercase" background-color="white" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                    view recipe
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="yellow-bg">
+            <mj-column>
+                <mj-image
+                     src="img/yellow-curry.png"
+                     alt=""
+                     />
+            </mj-column>
+            <mj-column>
+                <mj-text mj-class="h-1" align="center" font-size="38px">
+                    YELLOW CURRY
+                </mj-text>
+                <mj-button border-radius="25px" text-transform="uppercase" background-color="#fee394" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                    shop now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="green-bg">
+            <mj-column>
+                <mj-image
+                     src="img/mushroom-miso.png"
+                     alt=""
+                     />
+            </mj-column>
+            <mj-column>
+                <mj-text mj-class="h-1" align="center" font-size="38px">
+                    Smokey mushroom<br/>& miso
+                </mj-text>
+                <mj-button border-radius="25px" text-transform="uppercase" background-color="#bddabd" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                    shop now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="pink-bg">
+            <mj-column>
+                <mj-image
+                     src="img/spicy-kimchi.png"
+                     alt=""
+                     />
+            </mj-column>
+            <mj-column>
+                <mj-text mj-class="h-1" align="center" font-size="38px">
+                    Spicy Kimchi
+                </mj-text>
+                <mj-button border-radius="25px" text-transform="uppercase" background-color="#f5b7b0" border="2px solid #1d1e1c" color="#1d1e1c" font-weight="400" font-size="18px" padding="12px" padding-left="18px" width="190px">
+                    shop now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="green-bg">
+            <mj-column>
+                <mj-image src="img/infinite.noodz.jpeg" alt="Infinite Love, Infinite Noodles design" />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="dark-bg">
+            <mj-column>
+                <mj-image width="280px" src="img/footer.logo.png" alt="Footer Logo" />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="dark-bg">
+            <mj-column>
+                <mj-text
+                font-family="Roboto, sans-serif" font-size="14px" font-weight="400" color="white" align="center">
+                    INSTAGRAM
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-family="Roboto, sans-serif" font-size="14px" font-weight="400" color="white" align="center">
+                    TWITTER
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="dark-bg">
+            <mj-column>
+                <mj-divider padding-top="40px" border-width=".5px" border-color="#cccccc" />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="dark-bg">
+            <mj-column>
+                <mj-text align="center" vertical-align="top" font-family="Roboto, sans-serif" font-size="12px" font-weight="300" color="white">
+                    You are receiving this email because you opted in at our website.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
